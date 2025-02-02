@@ -3,4 +3,4 @@
 .venv
 project-venv/
 venv/
-
+.ipnyb_checkpoints
